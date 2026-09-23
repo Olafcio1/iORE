@@ -4,6 +4,7 @@
   "package": "pl.olafcio.iore.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [
+    "FontManagerMixin",
     "MinecraftMixin"
   ],
   "client": [
